@@ -1,0 +1,6 @@
+pip install uv
+uv pip install streamlit pymongo mediapipe langchain-tavily==0.2.12 langchain-experimental==0.3.4 langchain-google-genai==2.1.12 langgraph==0.6.11 google-genai openai-whisper streamlit_webrtc plotly joblib
+uv pip install tensorflow-cpu==2.19.0
+
+.venv\Scipts\activate
+streamlit run app.py 
