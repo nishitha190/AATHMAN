@@ -35,4 +35,4 @@
 # The system can be further improved by supporting multiple languages and enhancing sign language recognition capabilities. #Advanced models can be used to improve accuracy. Integration with wearable devices can enable real-time monitoring, and the #chatbot can be enhanced to provide more context-aware and personalized recommendations.
 
 # Conclusion
-# AATHMAN is a comprehensive multi-modal emotion detection system that combines text, voice, and gesture inputs to provide accurate and meaningful insights into mental well-being. The system not only improves emotion detection accuracy but also helps users understand and manage their emotional patterns effectively. It serves as a valuable tool for promoting mental health and self-awareness.#
+AATHMAN is a comprehensive multi-modal emotion detection system that combines text, voice, and gesture inputs to provide accurate and meaningful insights into mental well-being. The system not only improves emotion detection accuracy but also helps users understand and manage their emotional patterns effectively. It serves as a valuable tool for promoting mental health and self-awareness.
